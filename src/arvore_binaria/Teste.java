@@ -1,5 +1,5 @@
 package arvore_binaria;
-public class App {
+public class Teste {
     public static void main(String[] args) throws Exception {
         ArvoreBinaria arvoreBinaria = new ArvoreBinaria(10);
         arvoreBinaria.add(5);
