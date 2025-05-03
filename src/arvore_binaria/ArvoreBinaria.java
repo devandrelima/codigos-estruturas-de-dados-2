@@ -1,3 +1,4 @@
+package arvore_binaria;
 import java.util.LinkedList;
 import java.util.Queue;
 

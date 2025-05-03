@@ -1,3 +1,4 @@
+package arvore_binaria;
 public class App {
     public static void main(String[] args) throws Exception {
         ArvoreBinaria arvoreBinaria = new ArvoreBinaria(10);
